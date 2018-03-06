@@ -1,0 +1,16 @@
+{
+  "name": "nodeapi_jwt",
+  "version": "1.0.0",
+  "description": "Node APis and JWT",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.2.0"
+  }
+}
